@@ -1,5 +1,5 @@
 body{
-    background-color: #3f4d9b;
+    background-color: #6d80ea;
     margin: 0px
 }
 
@@ -14,4 +14,11 @@ header{
     background-color: #f676da;
     height: 150px;
     position: relative;
+}
+
+header img{
+    width: 100px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
 }
