@@ -25,3 +25,17 @@ header img{
     width: 180px;
     height: 180px;
 }
+
+#topLinks {
+    position: absolute;
+    width: 500px;
+    top: 100px;
+    right: 10px;
+}
+
+#topLinks li{
+    display: inline-block;
+    padding-left: 10px;
+    padding-right:10px;
+
+}
