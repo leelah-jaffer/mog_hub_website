@@ -52,3 +52,8 @@ a:visited{
 a:hover{
     color: #f00f0f
 }
+
+.currentPage{
+    color: #f92020;
+    border-bottom: solid thin #de1111;
+}
