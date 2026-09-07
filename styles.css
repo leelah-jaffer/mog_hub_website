@@ -39,3 +39,16 @@ header img{
     padding-right:10px;
 
 }
+
+a:link{
+    color: #15c7eb;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #1c22d0
+}
+
+a:hover{
+    color: #f00f0f
+}
