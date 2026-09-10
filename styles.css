@@ -1,17 +1,17 @@
 body{
-    background-color: #6d80ea;
+    background-color: #abb1d0;
     margin: 0px
 }
 
 #wrapper{
     width:960px;
-    background-color: #f558e7;
+    background-color: #0b7a5b;
     margin-left: auto;
     margin-right: auto;
 }
 
 header{
-    background-color: #f676da;
+    background-color:#0b7a5b;
     height: 150px;
     position: relative;
 }
@@ -41,12 +41,12 @@ header img{
 }
 
 a:link{
-    color: #15c7eb;
+    color: #519c14;
     text-decoration: none;
 }
 
 a:visited{
-    color: #1c22d0
+    color: #519c14
 }
 
 a:hover{
@@ -56,4 +56,66 @@ a:hover{
 .currentPage{
     color: #f92020;
     border-bottom: solid thin #de1111;
+}
+
+.clearfix{
+    clear: both;
+}
+
+main{
+    background-image: url(./_images/hero-image.jpg);
+    background-size: cover;
+}
+
+#homeInfo{
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 100%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+h1{
+    font-size: 2em;
+    color: #519c14;
+    padding-left: 25px;
+    border-bottom: solid thin #d25656;
+    padding-bottom: 15px;
+    margin: 0%;
+    padding-top: 15px;
+}
+
+h2{
+    font-size: 1.5em;
+    font-weight: heavy;
+    letter-spacing: 10px;
+    margin: 0px;
+    padding-left: 25px;
+}
+
+p{
+    font-size: 1em;
+    padding-left: 25px;
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    color: #f2f0f0;
+    font-size: 0.8em;
+    padding-vertical: 10px;
+}
+
+#bookings{
+    background-image: none;
+    padding-left: 25px;
+
+}
+
+.col1, .col2, .col3{
+    width: 500px;
+    text-align: center;
+}
+
+#bookings img{
+    width: 50px
 }
