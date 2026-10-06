@@ -1,17 +1,17 @@
 body{
-    background-color: #abb1d0;
+    background-color: #9f3b09;
     margin: 0px
 }
 
 #wrapper{
     width:960px;
-    background-color: #0b7a5b;
+    background-color: #dc9f34;
     margin-left: auto;
     margin-right: auto;
 }
 
 header{
-    background-color:#0b7a5b;
+    background-color: #dc9f34;
     height: 150px;
     position: relative;
 }
@@ -41,12 +41,12 @@ header img{
 }
 
 a:link{
-    color: #519c14;
+    color: #0a485b;
     text-decoration: none;
 }
 
 a:visited{
-    color: #519c14
+    color: #0a485b
 }
 
 a:hover{
@@ -76,7 +76,7 @@ main{
 
 h1{
     font-size: 2em;
-    color: #519c14;
+    color: #412d03;
     padding-left: 25px;
     border-bottom: solid thin #d25656;
     padding-bottom: 15px;
