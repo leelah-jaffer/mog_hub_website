@@ -170,6 +170,23 @@ footer {
     header {
         background-color: red;
     }
-    
 
+    #wrapper {
+        width: 360px;
+    }
+
+    header{
+        height: 375px;
+    }
+
+    header img{
+        left: 125px
+    }
+
+    #topLinks li{
+        display: block;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
 }
+
