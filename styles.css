@@ -117,7 +117,8 @@ footer{
 }
 
 #bookings img{
-    width: 50px
+    width: 150px;
+    height: 150px;
 }
 
 .gallery-section {
@@ -158,4 +159,17 @@ footer{
     color: #333333;
     font-size: 14px;
     font-family: Arial, sans-serif;
+}
+
+footer {
+    margin-top: auto;
+}
+
+
+@media only screen and (max-width: 960px) {
+    header {
+        background-color: red;
+    }
+    
+
 }
